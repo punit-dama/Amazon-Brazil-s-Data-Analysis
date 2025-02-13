@@ -1,1 +1,1 @@
-# Amazon-Brazil-s-Data-Analysis
+Analyze Amazon Brazil's data to identify trends and customer behaviors
